@@ -3,7 +3,7 @@ pragma solidity ^0.8.4;
 
 import "../interfaces/ERC721SpecExt.sol";
 import "../interfaces/ERC721Spec.sol";
-import "@lazy-sol/access-control/contracts/AccessControl.sol";
+import "@ai-protocol/access-control/contracts/AccessControl.sol";
 
 /**
  * @title Mintable Sale
